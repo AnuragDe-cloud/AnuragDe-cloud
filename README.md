@@ -162,3 +162,30 @@ A platform designed to analyse road-related images and videos for intelligent ro
   <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 </p>
 
+
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/AnuragDe-cloud">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/anurag-de-bba661320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:anuragde2206@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<h3 align="center">💬 Open to collaborations, interesting projects and new opportunities!</h3>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
+

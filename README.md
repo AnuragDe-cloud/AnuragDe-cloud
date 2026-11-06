@@ -46,6 +46,78 @@ I'm passionate about understanding how things work, experimenting with new techn
 
 ### Database & Tools
 <p>
+
+  
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode" />
+</p>
+
+### Libraries & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌍 AirScope</h3>
+
+**Air Pollution Analysis & Data Visualization**
+
+Exploring air quality trends, pollutant concentrations, and AQI patterns through Python-based visualizations.
+
+**Tech:** Python, Pandas, Matplotlib
+
+<a href="https://github.com/AnuragDe-cloud/AirScope---Data-Visualization">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🔎 Mini Search Engine</h3>
+
+**Information Retrieval & Query Processing**
+
+Implemented positional inverted indexing, Boolean operations, phrase queries, and query parsing.
+
+**Tech:** C++, Data Structures, Algorithms
+
+<a href="https://github.com/BhaveshGadling77/Mini-Search-Engine">View Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎓 Learning Management System</h3>
+
+**Database Management System**
+
+A database-driven application for managing academic information and implementing relational database concepts.
+
+**Tech:** Python, MySQL
+
+<a href="https://github.com/AnuragDe-cloud/LMS-dbms-project">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🛡️ RoadGuard</h3>
+
+**AI-Powered Road Safety Platform**
+
+A platform designed to analyse road-related images and videos for intelligent road safety insights.
+
+**Status:** In Development 🚧
+
+</td>
+</tr>
+</table>
+
   <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode" />
 </p>
 

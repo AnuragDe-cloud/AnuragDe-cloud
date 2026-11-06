@@ -106,7 +106,7 @@ A database-driven application for managing academic information and implementing
 </td>
 <td width="50%" valign="top">
 
-<h3>🛡️ RoadGuard</h3>
+<h3> RoadGuard</h3>
 
 **AI-Powered Road Safety Platform**
 

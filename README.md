@@ -18,15 +18,15 @@ B.Tech CSE @ COEP Technological University
 
 I'm a Computer Science undergraduate at COEP Technological University who enjoys exploring technology, building projects, and solving challenging problems.
 
-### 🚀 Problem Solver
+###  Problem Solver
 
 I'm passionate about understanding how things work, experimenting with new technologies, and turning ideas into practical solutions.
 
-- 🎓 **Degree:** B.Tech in Computer Science & Engineering
-- 🏛️ **University:** COEP Technological University
-- 💻 **Interests:** Software Development, DSA, and Data Science
-- 🚀 **Beyond Code:** Rocket Engineering and Aerospace
-- 🔭 **Currently Exploring:** System Design, Algorithms, and Data Visualization
+-  **Degree:** B.Tech in Computer Science & Engineering
+-  **University:** COEP Technological University
+-  **Interests:** Software Development, DSA, and Data Science
+-  **Beyond Code:** Rocket Engineering and Aerospace
+-  **Currently Exploring:** System Design, Algorithms, and Data Visualization
 
 
 
@@ -64,7 +64,7 @@ I'm passionate about understanding how things work, experimenting with new techn
 <tr>
 <td width="50%" valign="top">
 
-<h3>🌍 AirScope</h3>
+<h3> AirScope</h3>
 
 **Air Pollution Analysis & Data Visualization**
 
@@ -77,7 +77,7 @@ Exploring air quality trends, pollutant concentrations, and AQI patterns through
 </td>
 <td width="50%" valign="top">
 
-<h3>🔎 Mini Search Engine</h3>
+<h3> Mini Search Engine</h3>
 
 **Information Retrieval & Query Processing**
 
@@ -93,7 +93,7 @@ Implemented positional inverted indexing, Boolean operations, phrase queries, an
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎓 Learning Management System</h3>
+<h3> Learning Management System</h3>
 
 **Database Management System**
 
@@ -112,7 +112,7 @@ A database-driven application for managing academic information and implementing
 
 A platform designed to analyse road-related images and videos for intelligent road safety insights.
 
-**Status:** In Development 🚧
+**Status:** In Development 
 
 </td>
 </tr>
@@ -124,7 +124,7 @@ A platform designed to analyse road-related images and videos for intelligent ro
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center"> GitHub Statistics</h2>
 
 <div align="center">
 
@@ -165,7 +165,7 @@ A platform designed to analyse road-related images and videos for intelligent ro
 
 ---
 
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center"> Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/AnuragDe-cloud">

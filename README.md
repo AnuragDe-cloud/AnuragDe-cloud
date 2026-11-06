@@ -14,20 +14,40 @@ B.Tech CSE @ COEP Technological University
 
 ---
 
-## 👨‍💻 About Me
 
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p>
 I'm a Computer Science undergraduate at COEP Technological University who enjoys exploring technology, building projects, and solving challenging problems.
+</p>
 
-###  Problem Solver
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+<h2 align="center">🚀 Problem Solver</h2>
 
 I'm passionate about understanding how things work, experimenting with new technologies, and turning ideas into practical solutions.
 
--  **Degree:** B.Tech in Computer Science & Engineering
--  **University:** COEP Technological University
--  **Interests:** Software Development, DSA, and Data Science
--  **Beyond Code:** Rocket Engineering and Aerospace
--  **Currently Exploring:** System Design, Algorithms, and Data Visualization
+<br><br>
 
+<b>🎓 Degree:</b> B.Tech in Computer Science & Engineering<br>
+<b>🏛️ University:</b> COEP Technological University<br>
+<b>💻 Interests:</b> Software Development, DSA, and Data Science<br>
+<b>🚀 Beyond Code:</b> Rocket Engineering and Aerospace<br>
+<b>🔭 Currently Exploring:</b> System Design, Algorithms, and Data Visualization
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="YOUR_IMAGE_URL" width="280" />
+
+</td>
+</tr>
+</table>
 
 
 ---

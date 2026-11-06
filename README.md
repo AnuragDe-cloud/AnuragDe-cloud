@@ -28,3 +28,29 @@ I'm passionate about understanding how things work, experimenting with new techn
 - 🚀 **Beyond Code:** Rocket Engineering and Aerospace
 - 🔭 **Currently Exploring:** System Design, Algorithms, and Data Visualization
 
+
+
+---
+
+## 💻 Tech Stack & Tools
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode" />
+</p>
+
+### Libraries & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+</p>
+

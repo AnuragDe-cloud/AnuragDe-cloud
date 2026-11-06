@@ -42,7 +42,6 @@ I'm passionate about understanding how things work, experimenting with new techn
 </td>
 
 <td width="40%" align="center" valign="middle">
-
 <img src="./assets/coding-illustration.png" width="280" />
 
 </td>

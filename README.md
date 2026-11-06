@@ -27,7 +27,7 @@ I'm a Computer Science undergraduate at COEP Technological University who enjoys
 <tr>
 <td width="60%" valign="middle">
 
-<h2 align="center">🚀 Problem Solver</h2>
+<h2 align="center">💡 Learning, Building & Problem Solving</h2>
 
 I'm passionate about understanding how things work, experimenting with new technologies, and turning ideas into practical solutions.
 

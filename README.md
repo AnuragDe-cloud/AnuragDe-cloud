@@ -138,6 +138,20 @@ A platform designed to analyse road-related images and videos for intelligent ro
 
 </div>
 
+---
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AnuragDe-cloud/AnuragDe-cloud/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AnuragDe-cloud/AnuragDe-cloud/output/github-snake.svg">
+    <img alt="Contribution Snake"
+      src="https://raw.githubusercontent.com/AnuragDe-cloud/AnuragDe-cloud/output/github-snake.svg">
+  </picture>
+</p>
 
 
   <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode" />

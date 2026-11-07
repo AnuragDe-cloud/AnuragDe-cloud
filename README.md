@@ -33,11 +33,11 @@ I'm passionate about understanding how things work, experimenting with new techn
 
 <br><br>
 
-<b> Degree:</b> B.Tech in Computer Science & Engineering<br>
-<b> University:</b> COEP Technological University<br>
-<b> Interests:</b> Software Development, DSA, and Data Science<br>
-<b> Beyond Code:</b> Rocket Engineering and Aerospace<br>
-<b> Currently Exploring:</b> System Design, Algorithms, and Data Visualization
+<b> -> Degree:</b> B.Tech in Computer Science & Engineering<br>
+<b> -> University:</b> COEP Technological University<br>
+<b> -> Interests:</b> Software Development, DSA, and Data Science<br>
+<b> -> Beyond Code:</b> Rocket Engineering and Aerospace<br>
+<b> -> Currently Exploring:</b> System Design, Algorithms, and Data Visualization
 
 </td>
 

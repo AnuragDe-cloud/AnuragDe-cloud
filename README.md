@@ -159,7 +159,7 @@ A platform designed to analyse road-related images and videos for intelligent ro
 
 ---
 
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2 align="center"> Contribution Graph</h2>
 
 <p align="center">
   <picture>
